@@ -1,13 +1,13 @@
 //
-//  ScrumdingerUITests.swift
-//  ScrumdingerUITests
+//  ProjectUITests.swift
+//  ProjectUITests
 //
-//  Created by Rui Yi Gan on 17/1/23.
+//  Created by Rui Yi Gan on 4/2/23.
 //
 
 import XCTest
 
-final class ScrumdingerUITests: XCTestCase {
+final class ProjectUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

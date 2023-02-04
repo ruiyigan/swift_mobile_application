@@ -1,13 +1,13 @@
 //
-//  ScrumdingerUITestsLaunchTests.swift
-//  ScrumdingerUITests
+//  ProjectUITestsLaunchTests.swift
+//  ProjectUITests
 //
-//  Created by Rui Yi Gan on 17/1/23.
+//  Created by Rui Yi Gan on 4/2/23.
 //
 
 import XCTest
 
-final class ScrumdingerUITestsLaunchTests: XCTestCase {
+final class ProjectUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
