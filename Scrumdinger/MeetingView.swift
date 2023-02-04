@@ -1,9 +1,6 @@
-//
-//  ContentView.swift
-//  Scrumdinger
-//
-//  Created by Rui Yi Gan on 17/1/23.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
 
 import SwiftUI
 

@@ -1,9 +1,6 @@
-//
-//  DailyScrum.swift
-//  Scrumdinger
-//
-//  Created by Rui Yi Gan on 31/1/23.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
 
 import Foundation
 
@@ -14,7 +11,6 @@ struct DailyScrum {
     var theme: Theme
 }
 
-//https://www.hackingwithswift.com/quick-start/understanding-swift/when-should-you-use-extensions-in-swift
 extension DailyScrum {
     static let sampleData: [DailyScrum] =
     [
